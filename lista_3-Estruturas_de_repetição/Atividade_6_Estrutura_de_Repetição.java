@@ -14,7 +14,7 @@ public class Atividade_6_Estrutura_de_Repetição {
         try (Scanner input = new Scanner(System.in)) {
             double quantProduto = 0, preçoProduto = 0, total=0, totalf=0, totalP=0;
             int i=1;
-            char escolha= 'p';
+            char escolha= 's';
 
             
            
