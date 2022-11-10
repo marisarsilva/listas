@@ -1,3 +1,4 @@
+package Prontas;
 /* 13. Uma empresa decidiu fazer um levantamento em relação aos candidatos que se apresentarem
 para preenchimento de vagas no seu quadro de funcionários. Suponha que você seja o
 programador dessa empresa, criar um programa que leia para cada candidato a idade, o sexo
