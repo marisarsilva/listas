@@ -1,3 +1,4 @@
+package Prontas;
 /*12. Faça um programa que leia vários números, quando o zero for digitado o programa será
 finalizado. Mostre no final desse programa a soma dos números positivos, a soma dos
 negativos e a soma total dos positivos e negativos juntos.

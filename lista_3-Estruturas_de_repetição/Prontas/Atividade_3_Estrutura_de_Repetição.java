@@ -1,3 +1,4 @@
+package Prontas;
 /*3. Construa um programa que leia o número de horas trabalhadas diárias (NH) de um funcionário
 por um período de 7 dias (ele trabalhou todos os 30 dias) e apresente o salário bruto recebido
 por ele nesse período, sabendo que o valor do salário é R$ 10,00/hora trabalhada.

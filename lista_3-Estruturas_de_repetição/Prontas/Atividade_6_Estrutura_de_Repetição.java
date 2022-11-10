@@ -1,3 +1,4 @@
+package Prontas;
 /*6. Construa um programa que leia a quantidade (Q) e o preço (PR) de vários produtos diferentes,
 comprados por uma empresa, e apresente o total gasto por ela. O final da lista de produtos
 deverá ser indicado pelo usuário (escolha a maneira que preferir).

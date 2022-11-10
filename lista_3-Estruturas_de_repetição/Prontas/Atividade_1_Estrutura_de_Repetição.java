@@ -1,3 +1,4 @@
+package Prontas;
 /**1. Construa um programa que apresente o peso total que será carregado por um caminhão.
 Sabe-se que esse caminhão carrega 7 caixas, com pesos diferentes. Será entrada do
 programa o peso (P) de cada uma das caixas.

@@ -1,3 +1,4 @@
+package Prontas;
 /*11. Faça um programa que leia a idade e a altura de várias pessoas. Calcule e informe a média
 das alturas das pessoas com mais de 50 anos. Para encerrar o programa digite zero para
 idade.
@@ -25,9 +26,6 @@ public class Atividade_11_Estruturas_de_Repetição{
 
                 totalAltura=totalAltura+altura;
                 totalIdade= totalIdade+idade;
-
-
-
                 i++;
 
             }

@@ -1,3 +1,4 @@
+package Prontas;
 /*14. Uma empresa classifica seus funcionários em três níveis de acordo com um índice de
 produtividade. São eles (1) Excelente, (2) Bom e (3) Regular. Cada nível acrescenta um abono
 ao salário base do funcionário, de acordo com a seguinte tabela:

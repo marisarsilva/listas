@@ -1,3 +1,4 @@
+package Prontas;
 /*9. Em um cinema, certo dia, cada espectador respondeu a um questionário, que perguntava a
 sua idade (ID) e a opinião em relação ao filme (OP), seguindo os seguintes critérios:
 
