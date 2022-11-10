@@ -1,0 +1,13 @@
+
+/*2. Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras.*/
+
+
+public class atividade2 {
+    public static void main(String args[]) {
+      int quantCavalos = 1;
+      int quantFerraduras = quantCavalos * 4;
+      System.out.println("são necessárias " + quantFerraduras + " ferraduras para equipar todos os cavalos do aras .");
+        
+    }
+    
+}
