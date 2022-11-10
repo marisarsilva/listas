@@ -12,7 +12,12 @@ O final da pesquisa será indicado quando a idade do usuário for informada como
 Construa um programa que, lendo esses dados, calcule e apresente:
  Quantidade de pessoas que respondeu a pesquisa
  Média de idade das pessoas que responderam a pesquisa
- Porcentagem de cada uma das respostas */
+ Porcentagem de cada uma das respostas 
+
+@autor: Marisa_Rodrigues_da_Silva
+
+
+*/
 
 import java.util.Scanner;
 

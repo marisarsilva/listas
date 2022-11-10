@@ -1,6 +1,10 @@
 /*11. Faça um programa que leia a idade e a altura de várias pessoas. Calcule e informe a média
 das alturas das pessoas com mais de 50 anos. Para encerrar o programa digite zero para
-idade.*/
+idade.
+
+@autor: Marisa_Rodrigues_da_Silva
+
+*/
 import java.util.Scanner;
 
 public class Atividade_11_Estruturas_de_Repetição{

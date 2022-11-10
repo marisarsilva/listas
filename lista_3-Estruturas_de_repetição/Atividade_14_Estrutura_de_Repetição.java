@@ -7,7 +7,11 @@ ao salário base do funcionário, de acordo com a seguinte tabela:
 
 O programa deve ler a matrícula do funcionário, seu salário base e seu nível de abono.
 Calcular e imprimir o salário a ser pago (salário a ser pago é = salário base + abono). O
-programa será encerrado quando for digitado 0 para matrícula.*/
+programa será encerrado quando for digitado 0 para matrícula.
+
+@autor: Marisa_Rodrigues_da_Silva
+
+*/
 
 import java.util.Scanner;
 

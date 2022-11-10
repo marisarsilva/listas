@@ -4,7 +4,11 @@ programador dessa empresa, criar um programa que leia para cada candidato a idad
 e se tem experiência no serviço (S ou N). Para encerrar o programa, digite zero para idade.
 Calcule e escreva:
  O número de candidatos do sexo feminino;
- O número de candidatos do sexo masculino;*/
+ O número de candidatos do sexo masculino;
+
+@autor: Marisa_Rodrigues_da_Silva
+
+*/
 
 
 public class Atividade_13_Estruturas_de_Repetição {
