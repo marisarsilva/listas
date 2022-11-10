@@ -10,13 +10,17 @@ Calcule e escreva:
 
 */
 
+import java.util.Scanner;
 
 public class Atividade_13_Estruturas_de_Repetição {
-    public static void main(String args[]) {
-      int x=10;
-      int y=25;
-      int z=x+y;
+  public static void main(String args[]) {
+    Scanner input = new Scanner(System.in);
 
-      System.out.println("Sum of x+y = " + z);
-    }
+
+
+      
+
+    input.close();
+  }
+      
 }
