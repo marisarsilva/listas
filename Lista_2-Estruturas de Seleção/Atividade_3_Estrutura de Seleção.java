@@ -1,4 +1,9 @@
-/*4. Faça um programa que leia dois números e informa se o primeiro é igual ao segundo.*/
+/*3. Faça um programa que leia dois números e informe apenas se o primeiro é maior que o
+segundo.
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 
 import java.util.Scanner;
 
@@ -12,16 +17,16 @@ public class MyClass {
       System.out.print("Insira um número: ");
       numeroUm = input.nextInt();
       
-       System.out.print("Insira outro número: ");
+       System.out.print("Insira um número: ");
       numeroDois = input.nextInt();
       
       
       
-      if (numeroUm == numeroDois){
-           System.out.print("Os números inseridos são iguais ");
+      if (numeroUm > numeroDois){
+           System.out.print("O primeiro número é maior que o segundo ");
           
       } else{
-          System.out.print("Os numeros inseridos são diferentes");
+          System.out.print("O segundo numero é maior");
       }
     }
 }

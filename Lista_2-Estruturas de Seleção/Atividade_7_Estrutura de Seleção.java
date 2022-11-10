@@ -1,5 +1,9 @@
 /*7. Elabore um algoritmo que leia um número e mostre o número com a mensagem ‘é par’ ou
-‘é ímpar’.*/
+‘é ímpar’.
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 
 import java.util.Scanner;
 

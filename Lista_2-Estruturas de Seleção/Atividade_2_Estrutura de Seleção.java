@@ -1,4 +1,8 @@
-/*2. Faça um programa que leia um número e informe se a metade do número é menor que 12.*/
+/*2. Faça um programa que leia um número e informe se a metade do número é menor que 12
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+.*/
 
 import java.util.Scanner;
 

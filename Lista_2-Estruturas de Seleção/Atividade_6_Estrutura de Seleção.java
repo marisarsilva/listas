@@ -1,4 +1,8 @@
-/*6. Fazer um programa que receba um número e mostre se ele é positivo, negativo ou nulo (0).*/
+/*6. Fazer um programa que receba um número e mostre se ele é positivo, negativo ou nulo (0).
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 import java.util.Scanner;
 
 import java.util.Scanner;

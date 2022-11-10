@@ -1,5 +1,9 @@
 /*5. Faça um programa que leia dois números e informe se o primeiro é maior, menor ou igual
-ao segundo.*/
+ao segundo.
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 
 import java.util.Scanner;
 

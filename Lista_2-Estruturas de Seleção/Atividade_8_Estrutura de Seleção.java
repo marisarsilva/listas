@@ -1,7 +1,11 @@
 /* 8. Faça um programa que leia a altura e o sexo de uma pessoa, calcule e imprima seu peso
 ideal, utilizando as seguintes fórmulas:
 a. Para homens: (72.7 * h) – 58
-b. Para mulheres: (62.1 * h) – 44.7 (h = altura).*/
+b. Para mulheres: (62.1 * h) – 44.7 (h = altura).
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 
 
 import java.util.Scanner;
