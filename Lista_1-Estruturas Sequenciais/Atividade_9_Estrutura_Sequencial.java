@@ -1,4 +1,8 @@
-/*9. Faça um algoritmo para ler o salário de um funcionário e aumentá-Io em 15%. Após o aumento, desconte 8% de impostos. Imprima o salário inicial, o salário com o aumento e o salário final.*/
+/*9. Faça um algoritmo para ler o salário de um funcionário e aumentá-Io em 15%. Após o aumento, desconte 8% de impostos. Imprima o salário inicial, o salário com o aumento e o salário final.
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 import java.util.Scanner;
 
 public class atividade9{

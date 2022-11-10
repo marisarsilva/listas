@@ -1,4 +1,8 @@
-/*5. Um motorista deseja colocar no seu tanque X R$ de gasolina. Escreva um algoritmo para ler o preço do litro da gasolina e o valor pago, e exibir quantos litros ele conseguiu colocar no tanque.*/
+/*5. Um motorista deseja colocar no seu tanque X R$ de gasolina. Escreva um algoritmo para ler o preço do litro da gasolina e o valor pago, e exibir quantos litros ele conseguiu colocar no tanque.
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 
 import java.util.Scanner;
 

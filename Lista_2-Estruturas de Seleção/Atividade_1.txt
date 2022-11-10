@@ -1,4 +1,8 @@
-/*1. Faça um programa que leia um número e informe se o dobro do número é maior que 35.*/
+/*1. Faça um programa que leia um número e informe se o dobro do número é maior que 35.
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 
 import java.util.Scanner;
 

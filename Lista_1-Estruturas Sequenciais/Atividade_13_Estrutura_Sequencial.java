@@ -1,4 +1,8 @@
-/*13. Um tonel de refresco é feito com 8 partes de água mineral e 2 partes de suco de maracujá. Faça um algo ritmo para calcular quantos litros de água e de suco são necessários para se fazer X litros de refresco (informados pelo usuário).*/
+/*13. Um tonel de refresco é feito com 8 partes de água mineral e 2 partes de suco de maracujá. Faça um algo ritmo para calcular quantos litros de água e de suco são necessários para se fazer X litros de refresco (informados pelo usuário).
+
+@Autor:Marisa_Rodrigues_da_Silva.
+
+*/
 import java.util.Scanner;
 
 public class atividade13{
