@@ -8,16 +8,16 @@ comprados por uma empresa, e apresente o total gasto por ela.
 
 import java.util.Scanner;
 
-public class Atividade_2_Estrutura_de_Repetição{
+public class Atividade_2_Estrutura_de_Repeticao{
     public static void main(String args[]) {
-     
-     Scanner input =  new Scanner(System.in);
+      
+      Scanner input =  new Scanner(System.in);
     
-     double quant, preço;
+     double quant, preco;
      int contador;
      
      double quantidade = 0;
-     double preçoTotal = 0;
+     double precooTotal = 0;
      double totalGasto =0;
      contador = 1;
      

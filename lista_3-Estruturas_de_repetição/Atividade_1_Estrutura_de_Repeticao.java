@@ -9,7 +9,8 @@ programa o peso (P) de cada uma das caixas.
 
 import java.util.Scanner;
 
-public class Atividade_1_Estrutura_de_Repetição{
+
+public class Atividade_1_Estrutura_de_Repeticao{
     public static void main(String args[]) {
      
      Scanner input =  new Scanner(System.in);

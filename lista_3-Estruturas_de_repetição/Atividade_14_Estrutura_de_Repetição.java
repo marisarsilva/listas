@@ -16,9 +16,10 @@ programa será encerrado quando for digitado 0 para matrícula.
 
 import java.util.Scanner;
 
-public class Atividade_14_Estrutura_de_Repetição {
+
+public class Atividade_14_Estrutura_de_Repetição{
     public static void main(String[] args) {
-        try (Scanner input = new Scanner(System.in)) {
+        Scanner input = new Scanner(System.in);
 
             double abono = 0, salarioBase = 0;
             int matricula = 0;
@@ -42,8 +43,8 @@ public class Atividade_14_Estrutura_de_Repetição {
             }
 
             System.out.println("Para o funcionário de matricula nº:" + matricula + " o salário a ser pago é de Rs"
-                    + (salarioBase + abono));
+                    + (salarioBase + abono);
 
-        }
+        input.close();
     }
 }
