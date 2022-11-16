@@ -5,7 +5,7 @@
 */
 import java.util.Scanner;
 
-public class atividade13{
+public class Atividade_13_Estrutura_Sequencial{
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
         
@@ -24,7 +24,7 @@ public class atividade13{
        System.out.print(" É necessário "+ agua+ " litros de agua para fazer"+ quantRefresco +"litros de refresco");
        
        
-       
+       input.close();
     }
     
 }

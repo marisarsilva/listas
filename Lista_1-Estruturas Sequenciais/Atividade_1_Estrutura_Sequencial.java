@@ -5,7 +5,7 @@ dimensões de um terreno e depois exibir a área do terreno.
 
 */
 
-public class atividade1  {
+public class Atividade_1_Estrutura_Sequencial  {
     public static void main(String args[]) {
       int altura = 10;
       int base = 20;

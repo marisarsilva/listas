@@ -6,15 +6,16 @@
 
 import java.util.Scanner;
 
-public class atividade5{
+public class Atividade_5_Estrutura_Sequencial{
+    /**
+     * @param args
+     */
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
         
-        double gasolina, litrosGasolina,preçoGasolina;
-        
-        gasolina = 1.50;
-        
-       System.out.print("Quanto você pagou na compra de gasolina: ");
+        double gasolina=1.50, litrosGasolina,preçoGasolina;
+
+        System.out.println("Quanto você pagou na compra de gasolina: ");
         preçoGasolina = input.nextDouble();
         
         
@@ -22,6 +23,9 @@ public class atividade5{
         
           
        System.out.print("Você Comprou "+ litrosGasolina+ " litros de gasolina");
+
+       input.close();
+        
     }
     
 }

@@ -5,10 +5,10 @@
 */
 import java.util.Scanner;
 
-public class atividade9{
+public class Atividade_9_Estrutura_Sequencial{
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
-double salarioFinal, salarioInicial, salarioAumento, aumento, calculo;
+double salarioInicial, salarioAumento, aumento, calculo;
         
       System.out.print( "Insira o salário inicial: ");
       salarioInicial = input.nextDouble();
@@ -21,7 +21,7 @@ double salarioFinal, salarioInicial, salarioAumento, aumento, calculo;
       
       System.out.print( "O salário inicial com aumneto de 15% é: " +salarioAumento);
        
-       
+      input.close();
     }
     
 }

@@ -5,11 +5,11 @@
 */
 import java.util.Scanner;
 
-public class atividade12{
+public class Atividade_12_Estrutura_Sequencial{
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
         
-      double anelAlimento, anel,quantFrango,quantAnel,precoAnel;
+      double anelAlimento, anel,quantFrango,precoAnel;
         
       System.out.print( "Insira quantos frangos: ");
       quantFrango = input.nextDouble();
@@ -20,7 +20,7 @@ public class atividade12{
        precoAnel = quantFrango* (anel+anelAlimento);
        System.out.print("O valor gasto para etiquetar todos os frango foi: "+ precoAnel);
        
-       
+       input.close();
     }
     
 }

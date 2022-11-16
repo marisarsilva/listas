@@ -6,7 +6,7 @@ anos possui 6935 dias de vida; veja um exemplo de saída: MARIA, VOCÊ JÁ VIVEU
 
 */
 
-public class atividade4{
+public class Atividade_4_Estrutura_Sequencial{
     public static void main(String args[]) {
      
       String nomePessoa = "Lanna" ;

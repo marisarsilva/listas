@@ -8,7 +8,7 @@ vendida respectivamente por 10, 12 e 15 reais. Construa um algoritmo em que o us
 
 import java.util.Scanner;
 
-public class atividade8{
+public class Atividade_8_Estrutura_Sequencial{
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
 double p,m,g, valorArrecardadoP, valorArrecardadoM, valorArrecardadoG, totalArrecardado;
@@ -35,7 +35,9 @@ int quantP, quantM, quantG,totalCamisetas;
         valorArrecardadoG = quantG*g;
         totalArrecardado =  valorArrecardadoP+valorArrecardadoM+valorArrecardadoG;
         
-    System.out.print(" Foram vendidas um total de "+totalCamisetas+" camisetas, arrecardando um total de "+totalArrecardado+" reais");
+        System.out.print(" Foram vendidas um total de "+totalCamisetas+" camisetas, arrecardando um total de "+totalArrecardado+" reais");
+
+        input.close();
     }
     
 }

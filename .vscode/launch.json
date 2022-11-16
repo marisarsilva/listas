@@ -1,0 +1,161 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:5500",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 5500,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_10_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_10_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_11_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_11_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_12_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_12_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_13_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_13_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_14_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_14_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_15_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_15_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_1_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_1_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_2_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_2_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_3_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_3_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_4_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_4_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_5_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_5_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_6_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_6_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_7_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_7_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_8_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_8_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade_9_Estrutura_Sequencial",
+            "request": "launch",
+            "mainClass": "Atividade_9_Estrutura_Sequencial",
+            "projectName": "listas_d2be21b2"
+        }
+    ]
+}

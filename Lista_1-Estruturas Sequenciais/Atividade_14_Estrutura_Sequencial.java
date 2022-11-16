@@ -6,9 +6,9 @@
 
 import java.util.Scanner;
 
-public class atividade14{
+public class Atividade_14_Estrutura_Sequencial{
     public static void main(String[]args){
-        Scanner input = new Scanner (System.in);
+      Scanner input = new Scanner (System.in);
         
       double preçoProduto, quantProduto, preçoTotal, desconto,preçoProdutoo;
         
@@ -33,7 +33,7 @@ public class atividade14{
       System.out.print(" O preço do produto subtraindo 10% é igual a: " + preçoTotal);
        
        
-       
+      input.close();
     }
     
 }

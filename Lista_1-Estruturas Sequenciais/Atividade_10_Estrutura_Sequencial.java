@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class atividade10{
+public class Atividade_10_Estrutura_Sequencial{
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
 double quantQueijo, quantPresunto, quantHamburguer, quantSanduiches, quantQueijoo, quantPresuntoo, quantHamburguerr, fatiaQueijo,fatiaPresunto, fatiaHamburguer;
@@ -32,7 +32,7 @@ double quantQueijo, quantPresunto, quantHamburguer, quantSanduiches, quantQueijo
       System.out.println(quantPresuntoo+ " gramas de Presunto, que equivale a "+fatiaPresunto+ " fatias de presunto.");
       System.out.println( quantHamburguerr+" gramas de Hamburguer, que equivale a " +fatiaHamburguer+ " hamburguer(s)");
       
-       
+       input.close();
     }
     
 }

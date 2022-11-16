@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class atividade11{
+public class Atividade_11_Estrutura_Sequencial{
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
         
@@ -31,6 +31,7 @@ double quantHoras, salarioBaseNormal, quantExtras, salarioExtra, salarioBruto, d
       salarioLiquido = salarioBruto - desconto;
       System.out.println( "Salário Liquido: "+ salarioLiquido);
        
+      input.close();
     }
     
 }

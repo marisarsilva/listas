@@ -5,7 +5,7 @@
 */
 
 import java.util.Scanner;
-public class atividade115{
+public class Atividade_15_Estrutura_Sequencial{
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
         
@@ -21,7 +21,7 @@ public class atividade115{
       System.out.print(" Salario final do funcionario com comissão é: "+salarioFinal);
        
        
-       
+      input.close();
     }
     
 }

@@ -5,7 +5,7 @@
 */
 
 
-public class atividade3 {
+public class Atividade_3_Estrutura_Sequencial {
     public static void main(String args[]) {
       double umPao = 0.12;
       double umaBroa = 1.50;
@@ -13,19 +13,23 @@ public class atividade3 {
       /** adicione a quantidade de pão e broas para fazer o cáulculo**/
       int quantPao = 2 ;
       int quantBroa = 2;
+      double poupanca, poupancaDois;
+
+
       
       double vendaPao = quantPao * umPao;
       double vendaBroa = quantBroa * umaBroa;
       
       double totalVenda = vendaPao + vendaBroa;
       
-      double poupança = 0.10 * totalVenda;
-      double poupança2 = totalVenda - poupança;
+      poupanca = 0.10 * totalVenda;
+      poupancaDois = totalVenda - poupanca;
       
             
       System.out.println("A padaria Hotpão vendeu em broas " + vendaBroa + " reais e em pães "+ vendaPao+" reais que juntos somam um total de " + totalVenda); 
-      System.out.println(" 10% desse valor" + poupança + " vai para a poupança; restando " + poupança2 + " para a compra de insumos e entre outras atividades inerentes");
-        
+      System.out.println(" 10% desse valor" + poupanca + " vai para a poupança; restando " + poupancaDois+ " para a compra de insumos e entre outras atividades inerentes");
+     
+     
     }
     
 }

@@ -6,23 +6,28 @@
 
 import java.util.Scanner;
 
-public class atividade6{
+public class Atividade_6_Estrutura_Sequencial{
+    
+    /**
+     * @param args
+     */
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
-        
-        double quiloRefeiçao, balança, valorPagar;
-        
-        quiloRefeiçao = 12.00;
-        
+
+        double quiloPrato=12.00, balanca, valorPagar;
         
         
        System.out.print( "Qual o peso do prato ");
-        balança = input.nextDouble();
+        balanca = input.nextDouble();
         
-        valorPagar =  quiloRefeiçao*balança;
+        valorPagar =  quiloPrato*balanca;
         
-       System.out.print("O Preço a pagar pela refeição é R$: " +valorPagar+" reais");
+       System.out.print("O Preço a pagar pela refeição é R$: " +valorPagar+ " reais");
+       
+       input.close();
     }
+    
+
     
 }
   

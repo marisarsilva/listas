@@ -6,7 +6,10 @@
 
 import java.util.Scanner;
 
-public class atividade7{
+public class Atividade_7_Estrutura_Sequencial{
+    /**
+     * @param args
+     */
     public static void main(String[]args){
         Scanner input = new Scanner (System.in);
         
@@ -28,7 +31,9 @@ public class atividade7{
         
         mediaP =  ((notaUm*1)+(notaDois*2)+(notaTres*3))/(pesoUm+pesoDois+pesoTres);
         
-       System.out.print("A média ponderadas das três notas é: " +mediaP);
+       System.out.print("A média ponderadas das três notas é "+ mediaP);
+       
+       input.close();
     }
     
 }
